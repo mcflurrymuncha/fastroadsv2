@@ -1,4 +1,4 @@
-# fastroads
+# f a s t r o a d s
 
 This is a modded version of [slowroads.io](slowroads.io) that adds two fast cars and some other stuff. I did not make the original game. The original game is at [slowroads.io](slowroads.io), and it was created by [anslo](https://twitter.com/anslogen). Unfortunately the cars in the original game are too slow and he did not make the source code public, so all we have to work with is the minified JS. Some notes:
 
@@ -67,5 +67,5 @@ To clean previous build artifacts:
 ```
 
 # PreBuilt Versions:
-I have included some debug and normal versions of f a s t r o a d s in the release
+I have included some debug and normal versions of f a s t  r o a d s in the releases tab :3
 
